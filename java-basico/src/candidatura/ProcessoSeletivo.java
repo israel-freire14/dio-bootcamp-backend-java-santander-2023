@@ -1,2 +1,4 @@
-package candidatura;public class ProcessoSeletivo {
+package candidatura;
+
+public class ProcessoSeletivo {
 }
